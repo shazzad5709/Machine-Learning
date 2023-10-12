@@ -1,7 +1,7 @@
 # Machine Learning Algorithms 
 
 ## Introduction
-This GitHub repository contains machine learning algorithms implemented in Python. The included algorithms cover a range of tasks, such as classification, clustering, association rule mining, and skin detection. The code is tested on reliable datasets like breast_cancer and iris, providing crucial insights and accuracy evaluation.
+This GitHub repository contains machine learning algorithms implemented in Python. The included algorithms cover a range of tasks, such as classification, clustering, association rule mining, and skin detection. The code is tested on reliable datasets like breast_cancer and iris, providing crucial insights and accuracy evaluation.   
 
 ## Algorithms Included
 1. K-Nearest Neighbors (KNN): A supervised learning algorithm for classification and regression tasks based on data similarity.
